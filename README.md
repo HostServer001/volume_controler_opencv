@@ -32,8 +32,8 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/HostServer001/hand-gesture-volume-controler.git
-cd hand-gesture-volume-control
+git clone https://github.com/HostServer001/volume_controler_opencv.git
+cd volume_controler_opencv
 
 2. Install dependencies
 
