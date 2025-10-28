@@ -46,7 +46,7 @@ python3 main.py
 
 ---
 
-🧠 How It Works
+How It Works
 
 1. MediaPipe detects the hand and provides 21 landmarks.
 
